@@ -168,11 +168,11 @@ button {
   display: none;
 }
 
-.editMode .task-list__input {
+.task-list__item_edit-mode .task-list__input {
   display: inline-block;
   width: 224px;
 }
 
-.editMode .task-list__label {
+.task-list__item_edit-mode .task-list__label {
   display: none;
 }
